@@ -26,6 +26,11 @@ AI Insights – Intelligent recommendations based on your saved links.
 | **Hosting**  | Vercel (Frontend) + Render (Backend)              |
 
 
+
+
+
+
+
 # 📦 Local Installation
 Follow the steps below to run Second Brain on your local machine.
 
