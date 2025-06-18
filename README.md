@@ -11,9 +11,11 @@ Tagging System – Add tags to categorize and quickly filter links.
 Public Sharing – Make your curated collection of links public.
 
 # 🔮 Planned Enhancements
+
 Search Capability – Easily find saved content via keywords or tags.
 
 AI Insights – Intelligent recommendations based on your saved links.
+
 
 # 🛠️ Tech Stack
 
@@ -27,35 +29,9 @@ AI Insights – Intelligent recommendations based on your saved links.
 
 
 
-
-
-
-
-# 📦 Local Installation
-Follow the steps below to run Second Brain on your local machine.
-
-# 1. Clone the Project
-git clone https://github.com/your-username/second-brain.git
-cd second-brain
-
-# 2. Install Dependencies
- # frontend
- cd fronted
- npm  install
- 
- # backend
- cd backend
- npm install
-
-# 3. Set Up Environment Variables.
-
-PORT=5000
-MONGO_URL=your_mongo_connection_string
-JWT_SECRET=your_jwt_secret_key
-
-
 # 🧪 How It Works.
-Step-by-Step:
+
+# Step-by-Step:
 
 Sign Up / Login – Register a new account or log in.
 
@@ -67,6 +43,7 @@ Public Brain – Mark links as public to share with others.
 
 
 # 🧠 License & Credits
-Built by [Anant Tiwary]. Open-sourced for educational and learning purposes.
+
+# Built by [Anant Tiwary]. Open-sourced for educational and learning purposes.
 
 
