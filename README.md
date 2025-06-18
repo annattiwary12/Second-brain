@@ -27,6 +27,9 @@ AI Insights – Intelligent recommendations based on your saved links.
 | **Auth**     | JSON Web Tokens (JWT)                             |
 | **Hosting**  | Vercel (Frontend) + Render (Backend)              |
 
+# Screen-shot
+![image](https://github.com/user-attachments/assets/710e6502-7116-4d43-91af-35ce35578318)
+
 
 
 # 🧪 How It Works.
