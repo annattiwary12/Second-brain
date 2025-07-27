@@ -37,10 +37,14 @@ AI Insights – Intelligent recommendations based on your saved links.
 
 # Step-by-Step:
 
-Sign Up / Login – Register a new account or log in.
-Add Links – Save URLs with optional tags and notes.
-View / Manage – Edit, update, or delete saved links.
-Public Brain – Mark links as public to share with others.
+# Sign Up / Login – Register a new account or log in.
+
+# Add Links – Save URLs with optional tags and notes.
+
+# View / Manage – Edit, update, or delete saved links.
+
+# Public Brain – Mark links as public to share with others.
+
 
 
 # 🧠 License & Credits
