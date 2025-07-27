@@ -28,6 +28,7 @@ AI Insights – Intelligent recommendations based on your saved links.
 | **Hosting**  | Vercel (Frontend) + Render (Backend)              |
 
 # Screen-shot
+
 ![image](https://github.com/user-attachments/assets/710e6502-7116-4d43-91af-35ce35578318)
 
 
@@ -37,11 +38,8 @@ AI Insights – Intelligent recommendations based on your saved links.
 # Step-by-Step:
 
 Sign Up / Login – Register a new account or log in.
-
 Add Links – Save URLs with optional tags and notes.
-
 View / Manage – Edit, update, or delete saved links.
-
 Public Brain – Mark links as public to share with others.
 
 
